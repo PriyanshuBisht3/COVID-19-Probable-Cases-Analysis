@@ -50,7 +50,7 @@ It provides insights into total cases, latest daily cases, and overall trends us
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png)
 
 ---
 
